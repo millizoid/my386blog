@@ -21,7 +21,6 @@
 title: Millie's Coding Blog # Make a title for your blog
 email: alisaccox@gmail.com # Add your email 
 description: I'm Millie, and I'm learning and showing what I know about coding! # this means to ignore newlines until "baseurl:"
- Change the description so that it describes your blog
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
 url: "https://millizoid.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/alta_mountains.jpg
