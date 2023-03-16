@@ -163,3 +163,22 @@ ts_data```
 2. Because I am using this data with other datasets, I saved it to a csv file. The code below shows how to do this.
 
 ```ts_data.to_csv('ts_billboard_data.csv')```
+
+# Kaggle and data.world Datasets
+
+The process for reading in the datasets from Kaggle and data.world simply use the pandas package. The code below shows this process (after downloading from the links earlier in this post).
+
+    ```from bs4 import BeautifulSoup
+    import requests
+    import pandas as pd
+
+    ts_spotify = pd.read_csv('~/Desktop/STAT386/FinalDataProject/spotify_taylorswift.csv')
+    ts_lyrics = pd.read_csv('~/Desktop/STAT386/FinalDataProject/taylor_swift_lyrics.csv')```
+
+The csv files for all three datasets can be found at the repository linked earlier in this post.
+
+#Conclusion
+
+In this post, I showed how to access Taylor Swift song data from three different sources. One was web-scraped from Billboard Top 100, one was spotify data from Kaggle, and one was lyric data off of data.world. In my next post, I will explore this data and see if there are trends between song characteristics and popularity.
+
+Please let me know if there are any ideas/recommendations that you have after reading this!
