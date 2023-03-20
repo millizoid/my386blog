@@ -12,13 +12,13 @@ Taylor Swift's music has been influential since the beginning of her career. At 
 
 People love Swift's music for many reason including her lyricism, music variety, unique production, or a combination of all of these. While [Swift has accomplished many things over the years](https://en.wikipedia.org/wiki/Taylor_Swift), I have been curious to see what exactly makes her music so popular.
 
-![Figure](/assets/images/reputation.jpg)
+![Figure](~/Desktop/STAT386/my386blog/assets/images/reputation.jpg)
 
 # Why Do Songs Get Popular
 
 Because Taylor Swift's music is so influential, both to listeners and other artists, I want to determine what aspects of her most popular songs have actually made them so popular. While it is true that Swift's reputation in the music industry has played a role in her continued success, it is also important to note that trends among her own songs may be indicators for what makes songs from her own work stand out more from others.
 
-![Figure](/assets/images/topten.jpg)
+![Figure](~/Desktop/STAT386/my386blog/assets/images/topten.jpg)
 
 # What Does the Data Say?
 
