@@ -14,7 +14,7 @@ After collecting and cleaning my data in my last post, I am going to do some Exp
 
 I wanted to be able to see how the different variables within the Taylor Swift Spotify dataset were correlated. Shown below is a correlation matrix on this data. The brightness indicates the strength of the correlation. Cool colors indicate a negative correlation, whereas warm colors are positive.
 
-![Figure](https://github.com/millizoid/my386blog/blob/71e75b26b5f542b8f42873b3bab852a646a600de/assets/images/correlationmatrix2.jpg)
+![Figure](assets/images/correlationmatrix2.jpg)
 
 # Figure 2
 
