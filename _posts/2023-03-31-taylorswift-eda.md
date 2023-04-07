@@ -14,7 +14,7 @@ After collecting and cleaning my data in my last post, I am going to do some Exp
 
 I wanted to be able to see how the different variables within the Taylor Swift Spotify dataset were correlated. Shown below is a correlation matrix on this data. The brightness indicates the strength of the correlation. Cool colors indicate a negative correlation, whereas warm colors are positive.
 
-![Figure](assets/images/correlationmatrix2.jpg)
+![Figure](https://raw.githubusercontent.com/millizoid/my386blog/main/assets/images/correlationmatrix2.jpg)
 
 # Figure 2
 
@@ -22,16 +22,16 @@ After looking through the correlation matrix and the dataset in general, I notic
 
 The figure below shows how the popularity scores of Swift's music releases before and after removing remixes and versions that are not the original.
 
-![Figure](https://github.com/millizoid/my386blog/blob/530ac70e189dc5bbd34a2d37b1842f0a2edf266c/assets/images/cleaneddata.jpg)
+![Figure](https://raw.githubusercontent.com/millizoid/my386blog/main/assets/images/cleaneddata.jpg)
 
 # Figure 3
 
 Visually seeing that there were differences in the popularity between the cleaned and original data, I have made another correlation matrix. Although numbers are somewhat close, there are some differences.
 
-![Figure](https://github.com/millizoid/my386blog/blob/530ac70e189dc5bbd34a2d37b1842f0a2edf266c/assets/images/correlationmatrix.jpg)
+![Figure](https://raw.githubusercontent.com/millizoid/my386blog/main/assets/images/correlationmatrix.jpg)
 
 # Figure 4
 
 Taylor Swift has placed lots of emphasis on the dates that she releases songs. She famously has emphasized the number 13 in release dates. In addition to this, the timing of releasing music can be impactful in terms of award nominations and competition with other artists. Below is a figure showing the distribution of the day, month, and year of her releases.
 
-![Figure](https://github.com/millizoid/my386blog/blob/71e75b26b5f542b8f42873b3bab852a646a600de/assets/images/releasecounts.jpg)
+![Figure](https://raw.githubusercontent.com/millizoid/my386blog/main/assets/images/releasecounts.jpg)
