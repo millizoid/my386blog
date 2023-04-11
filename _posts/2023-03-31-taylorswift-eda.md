@@ -35,3 +35,13 @@ Visually seeing that there were differences in the popularity between the cleane
 Taylor Swift has placed lots of emphasis on the dates that she releases songs. She famously has emphasized the number 13 in release dates. In addition to this, the timing of releasing music can be impactful in terms of award nominations and competition with other artists. Below is a figure showing the distribution of the day, month, and year of her releases.
 
 ![Figure](https://raw.githubusercontent.com/millizoid/my386blog/main/assets/images/releasecounts.jpg)
+
+# Figure 5
+
+Lastly, I was interested in seeing the energy in Swift's songs. In future research with this data, it would be interesting to see how the energy levels measure up with other factors such as speechiness or acousticness. The graph below shows the energy level on the x-axis on a scale from 0-100%. On the y-axis, it shows the count of how many songs fall into that specific level.
+
+![Figure](https://raw.githubusercontent.com/millizoid/my386blog/main/assets/images/energy.jpg)
+
+# Conclusion
+
+The graphs in this post only give a glimpse into the trends and interesting aspects of Taylor Swift's discography. In future posts I will go into further detail as to what these figures mean, and what conclusions we can potentially learn from them. Furthermore, this post will be updated occasionally with more graphs, so make sure to come back periodically!
