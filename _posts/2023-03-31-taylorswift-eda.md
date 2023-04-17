@@ -45,3 +45,5 @@ Lastly, I was interested in seeing the energy in Swift's songs. In future resear
 # Conclusion
 
 The graphs in this post only give a glimpse into the trends and interesting aspects of Taylor Swift's discography. In future posts I will go into further detail as to what these figures mean, and what conclusions we can potentially learn from them. Furthermore, this post will be updated occasionally with more graphs, so make sure to come back periodically!
+
+Complete code and more graphs (and a fun prediction model) can be found in the following [GitHub Repo](https://github.com/millizoid/taylor_swift_song_project/blob/main/ts_popularity_model.ipynb)
